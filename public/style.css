@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #fafafa;
+    color: #0068a5;
+    /* color: #4bbcfd; */
+    font-family: "Lucida Console", Courier, monospace;
+}
+
+.heading{
+    
+    padding-top: 1em;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.chart{
+    
+    min-width: 310px;
+    height: 500px;
+    margin: 2% 15%;
+    padding:1em;
+}
+.chart .chart_head{
+    padding-bottom: .8em;
+    font-weight: 700;
+    font-size: 1.2em;
+ 
+}
